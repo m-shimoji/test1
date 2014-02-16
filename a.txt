@@ -1,14 +1,14 @@
 class a{
 
-    function aaa(){
+    function a(){
         a
         a
         a
     }
 
-    function bb(){
+    function b(){
         b
-        //b
+        b
         b
     }
 
