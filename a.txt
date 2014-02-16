@@ -2,9 +2,17 @@ class a{
 
     function a(){
         a
-        a
+        //a
         a
     }
+
+    function a'(){
+        a
+        b
+        c
+        d
+    }
+
 
     function b(){
         b
