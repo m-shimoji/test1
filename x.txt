@@ -1,5 +1,19 @@
-x
+class x{
+    function x(){
+        x
+        x
+        x
+    }
 
-y
+    function y(){
+        y
+        y
+        y
+    }
 
-z
+    function z(){
+        z
+        z
+        z
+    }
+}

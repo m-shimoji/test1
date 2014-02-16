@@ -1,9 +1,22 @@
-a
-b
+class a{
 
-c
-d
+    function a(){
+        a
+        a
+        a
+    }
 
-e
-f
+    function b(){
+        b
+        b
+        b
+    }
 
+    function c(){
+        c
+        c
+        c
+    }
+
+
+}
